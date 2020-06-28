@@ -1,0 +1,41 @@
+title{ color: red; font: 12px tahoma;}
+body{
+  background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT3qn5Fs-FZQxw5Vzcu6vM74QD85fP8YckYwQ&usqp=CAU');  
+      background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+
+ul  {
+ font-family:Fantasy;
+    color: white;
+    
+}   
+
+h2 {
+	font-family: Times New Roman;
+	font-weight: bold;
+	text-align: left;
+	padding-top: 25px;
+	padding-bottom: 25px;
+	color: red;
+}
+
+
+
+#email{
+	float:right;
+	margin-right:5px;
+	padding-top:5px;
+	font-size:16px;
+	font-family: Verdana, sans-serif;
+	color:#ffffff;
+}
+div{
+	border-radius:5px;
+}
+a:hover {
+    color: lightgreen;
+    background-color: black;
+}
